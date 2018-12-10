@@ -2,7 +2,7 @@ language: go
 go:
     - "1.10"
     - "1.11"
-go_import_path: github.com/deadcheat/goacors
+go_import_path: github.com/istyle-inc/goacors
 before_install:
     - go get -v -u github.com/modocache/gover
     - go get -v -u github.com/mattn/goveralls
