@@ -6,7 +6,7 @@ import (
 
 	"context"
 
-	"github.com/deadcheat/goacors"
+	"github.com/istyle-inc/goacors"
 )
 
 func TestNew(t *testing.T) {

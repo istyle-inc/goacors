@@ -1,4 +1,4 @@
-module github.com/deadcheat/goacors
+module github.com/istyle-inc/goacors
 
 require (
 	github.com/armon/go-metrics v0.0.0-20180221182744-783273d70314
